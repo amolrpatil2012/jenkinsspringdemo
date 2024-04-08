@@ -13,6 +13,7 @@ public class JenkinsdemoApplication {
 	{
 		System.out.println("Application Started");
 		System.out.println("Second Statement");
+		System.out.println("Third Statement");
 	}
 
 	public static void main(String[] args) {
